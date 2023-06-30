@@ -1,5 +1,5 @@
 
-FROM public.ecr.aws/nginx/nginx:lates
+FROM public.ecr.aws/nginx/nginx:latest
 
 LABEL maintainer="Animals4life" 
 
